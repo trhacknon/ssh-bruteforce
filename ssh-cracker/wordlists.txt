@@ -8,6 +8,9 @@ princess
 1234567
 abc123
 nicole
+admin123
+Admin12345
+admin12345
 daniel
 monkey
 babygirl
