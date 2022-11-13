@@ -42,7 +42,7 @@ def is_ssh_open(hostname, username, password):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="SSH Bruteforce Python script.")
+    parser = argparse.ArgumentParser(description="SSH Bruteforce Python script Modded BY Trhacknon.")
     parser.add_argument("host", help="Hostname or IP Address of SSH Server to bruteforce.")
     parser.add_argument("-P", "--passlist", help="File that contain password list in each line.")
     parser.add_argument("-u", "--user", help="Host username.")
